@@ -6,7 +6,7 @@ export default function Header() {
   <div class="container">
     <a class="navbar-brand" href="#">
       <img src={logo} alt="" />
-    </a> 
+    </a>    
     
     <div class="d-flex">
     <a class="nav-link" href="#"><b style={{ color:'black'}}>Menu</b></a> 
